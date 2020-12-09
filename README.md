@@ -1,1 +1,1 @@
-# GenerativeAdversarialNetworks
+# GAN
